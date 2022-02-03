@@ -1,0 +1,8 @@
+# environment
+.env
+.env.local
+.idea
+assets/
+.idea/*
+.DS_Store
+.vscode
